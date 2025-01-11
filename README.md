@@ -1,4 +1,4 @@
-# 🌌 Welcome to My Universe! 🚀
+#  Welcome to My Universe! 🚀
 Hi, I'm **Ameer Alabi**, a passionate **Full-Stack Developer** navigating the cosmos of **React**, **Node.js**, **Express**, **MongoDB**, and **Next.js**. Let's build something extraordinary together! 🌟
 
 ---
@@ -36,4 +36,4 @@ Hi, I'm **Ameer Alabi**, a passionate **Full-Stack Developer** navigating the co
 
 ---
 
-> “Shoot for the stars, but never forget to debug your code.” ✨💻
+
