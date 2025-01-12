@@ -26,7 +26,6 @@ Hi, I'm **Ameer Alabi**, a passionate **Full-Stack Developer** navigating the co
 
 ## 🌠 Let's Connect!
 - 🌍 [LinkedIn](https://www.linkedin.com/in/ameer-alabi-9bb852287?)  
-- 🐦 [Twitter](https://x.com/Alman_0401)
 
 ---
 
