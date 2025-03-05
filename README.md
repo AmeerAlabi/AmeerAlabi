@@ -33,7 +33,7 @@ Hi, I'm **Ameer Alabi**, a passionate **Full-Stack Developer** navigating the co
 
 ## 🚀 Stats 
 ![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeerAlabi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerAlabi&layout=compact&theme=radical)
+
 
 ---
 
